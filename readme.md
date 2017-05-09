@@ -26,4 +26,4 @@ For example:
 ## Publication
 This script is used for SOR3D preprocessing. The output data are used in the following paper:
 
-S. Thermos _et_ _al_, "_Deep Affordance-based Sensorimotor Recognition_", to appear CVPR 2017, [pdf](https://arxiv.org/abs/1704.02787)
+S. Thermos _et_ _al_, "_Deep Affordance-based Sensorimotor Object Recognition_", to appear CVPR 2017, [pdf](https://arxiv.org/abs/1704.02787)
