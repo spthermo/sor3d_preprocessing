@@ -1,4 +1,4 @@
-# SOR3D Data Preparation
+# SOR3D Data Preprocessing
 
 ## Description
 This script (C++) receives depthmaps or RGB as input and performs:
@@ -20,7 +20,7 @@ Run ```mapper.o``` with two input arguments:
 For example:
 
 ```
-./mapper /home/spiros/Documents/sor3d_train_set /home/spiros/Documents/processed/train_set
+./mapper /home/spthermo/Documents/sor3d_train_set /home/spiros/Documents/processed/train_set
 ```
 
 ## Publication
