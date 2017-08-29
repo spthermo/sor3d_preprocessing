@@ -10,7 +10,7 @@ This script (C++) receives depthmaps or RGB as input and performs:
 ..* scene (RGB, depthmap)
 
 ## OpenCV
-OpenCV 2.4.8 is required
+OpenCV 2.4.9 is required
 
 ## Usage
 Run ```mapper.o``` with two input arguments:
